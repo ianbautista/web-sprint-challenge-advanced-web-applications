@@ -68,13 +68,13 @@ Build a login form to authenticate your users.
 - [x] Construct an AXIOS request to retrieve a token from the server. You'll use this token to interact with the API
 - [x] Save the token to localStorage
 - [x] Build a `axiosWithAuth` module to create an instance of axios with the authentication header
-- [ ] Build a `PrivateRoute` component and use it to protect a route that renders the `BubblesPage` component
+- [x] Build a `PrivateRoute` component and use it to protect a route that renders the `BubblesPage` component
 
 #### Stage 2 - Consuming the API
 
-- [ ] When `BubblePages` renders, make a GET request to fetch the color data for your bubbles.
-- [ ] In `ColorList.js`, complete the `saveEdit` and `deleteColor` functions to make AJAX requests to the API to edit/delete data
-- [ ] Watch and enjoy as your app responds to updates in the data. Check out `Bubbles.js` to see how this is built.
+- [x] When `BubblePages` renders, make a GET request to fetch the color data for your bubbles.
+- [x] In `ColorList.js`, complete the `saveEdit` and `deleteColor` functions to make AJAX requests to the API to edit/delete data
+- [x] Watch and enjoy as your app responds to updates in the data. Check out `Bubbles.js` to see how this is built.
 
 #### API Documentation
 
@@ -86,7 +86,7 @@ Build a login form to authenticate your users.
 
 #### Stage 3 Testing
 
-- [ ] Finish the test in `BubblePage.test.js` to test that your app is fetching the bubble data from the API
+- [x] Finish the test in `BubblePage.test.js` to test that your app is fetching the bubble data from the API
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. You will be scored on your adherence to proper code style and good organization. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
@@ -94,14 +94,14 @@ In your solution, it is essential that you follow best practices and produce cle
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
-- [ ] Build out another form to add a new color to your color list
+- [x] Build out another form to add a new color to your color list
 - [ ] Build a custom hook called `useApi` that you can use to make all of your API calls
-- [ ] Add more tests to give you further confidence in the code you're shipping
+- [x] Add more tests to give you further confidence in the code you're shipping
 
 ## Submission format
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete after receiving your pull-request
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Add your team lead as a reviewer on the pull-request
+- [x] Your team lead will count the project as complete after receiving your pull-request
